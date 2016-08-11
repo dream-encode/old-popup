@@ -1,0 +1,22 @@
+{
+  "name": "old-popup",
+  "description": "JS modal popup for legacy support",
+  "main": "popup.js",
+  "keywords": [
+    "old-popeasy",
+    "popeasy",
+    "old-popup"
+  ],
+  "authors": [
+    "VegasDave2k"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
